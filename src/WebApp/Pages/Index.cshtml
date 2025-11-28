@@ -1,0 +1,17 @@
+@page
+
+@{
+    double lado = 5;
+    double altura = 10;
+    double d = 4;
+    double D = 6;
+    double perimetro = Application.Figura261E12.Perimetro(lado);
+    double area = Application.Figura261E12.Area(d, D);
+    double volumen = Application.Figura261E12.Volumen(area, altura);
+}
+
+El perímetro de un rombo de @(lado)cm por lado es @(perimetro)cm
+<br />
+El área de un rombo con diagonal 1 = @(d)cm por diagonal 2 = @(D)cm es @(area)cm2
+<br />
+El volumen de un rombo con un area de @(area)cm2 y altura de @(altura)cm es de @(volumen)cm3
