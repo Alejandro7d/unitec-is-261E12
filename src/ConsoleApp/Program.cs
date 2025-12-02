@@ -9,5 +9,5 @@ double volumen = Application.Figura261E12.Volumen(area, altura);
 // ToDo
 
 Console.WriteLine($"El perímetro de un rombo de {lado}cm por lado es {perimetro}cm");
-Console.WriteLine($"El área de un rombo de diagonal 1 = {d}cm y diagonal 2 = {D}cm es {area}cm2");
+Console.WriteLine($"El área de un rombo con la diagonal corta = {d}cm y diagonal larga = {D}cm es {area}cm2");
 Console.WriteLine($"El volumen de un rombo de área {area}cm2 y altura {altura}cm es {volumen}cm3");
