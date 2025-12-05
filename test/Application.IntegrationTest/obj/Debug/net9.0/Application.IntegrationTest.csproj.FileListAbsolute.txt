@@ -1,0 +1,14 @@
+D:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.csproj.AssemblyReference.cache
+D:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.AssemblyInfoInputs.cache
+D:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.AssemblyInfo.cs
+D:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.csproj.CoreCompileInputs.cache
+D:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Application.IntegrationTest
+D:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\bin\Debug\net9.0\CoverletSourceRootsMapping_Application.IntegrationTest
+E:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Application.IntegrationTest
+E:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\bin\Debug\net9.0\CoverletSourceRootsMapping_Application.IntegrationTest
+E:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.csproj.AssemblyReference.cache
+E:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.AssemblyInfoInputs.cache
+E:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.AssemblyInfo.cs
+E:\unitec\ingenieria_de_software\project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.csproj.CoreCompileInputs.cache
