@@ -1,4 +1,7 @@
-﻿using System.Net;
+using Xunit
+using System.Net;
+using System.Net.Http;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Testing;
 
 namespace Application.IntegrationTest;
@@ -30,4 +33,5 @@ public class IntegrationTestPages : IClassFixture<WebApplicationFactory<Program>
         response.EnsureSuccessStatusCode();
         Assert.Equal(HttpStatusCode.OK, response.StatusCode);
     }
+
 }
